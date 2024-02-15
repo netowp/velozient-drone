@@ -1,0 +1,22 @@
+{
+  "name": "velozient-drone",
+  "version": "1.0.0",
+  "description": "Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js files/Input.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netowp/velozient-drone.git"
+  },
+  "keywords": [
+    "velozient"
+  ],
+  "author": "Otacilio Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netowp/velozient-drone/issues"
+  },
+  "homepage": "https://github.com/netowp/velozient-drone#readme"
+}
